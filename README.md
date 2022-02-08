@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahedjaber
 - 👀 I’m interested in programming..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on php>>
+- 🌱 I’m currently learning php...
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me shahed.abu.shammala@gmail.com
 
 <!---
